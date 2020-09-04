@@ -1,0 +1,6 @@
+Links = //h2[@class="headline"]/a/@href
+Titulo = /html/body/div[1]/div[3]/div[1]/div[2]/div[1]/h2/a/text()
+Resumen = /html/body/div[1]/div[3]/div[2]/div[2]/div[1]/div[2]/p/text()
+Cuerpo = //div[@class="html-content"]/p[not(@class)]/text()
+
+
