@@ -1,7 +1,4 @@
-# webscraping project 
-# webscraping_test
-# 
-
+# webscraping project - From the Platzi Foundations of webscraping course with Python and Xpath. 
 This is a webscraping project using Python requests, lxml and Xpath.
 
 ## Installation
